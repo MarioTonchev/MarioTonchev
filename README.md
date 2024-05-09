@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">A passionate back-end developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="1000" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariotonchev" alt="mariotonchev" /></a> </p>
 

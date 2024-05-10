@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">A passionate back-end developer from Bulgaria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariotonchev" alt="mariotonchev" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=mariotonchev" alt="mariotonchev" /></a> </p>
 
 - 🌱 I’m currently learning **ASP.NET MVC**
 

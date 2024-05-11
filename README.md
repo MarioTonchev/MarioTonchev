@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mario-tonchev-0832472b6/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

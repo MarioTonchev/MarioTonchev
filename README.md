@@ -3,7 +3,7 @@
 
 <p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=mariotonchev" alt="mariotonchev" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET MVC**
+- 🌱 I’m currently learning HTML and CSS
 
 - 📫 How to reach me **https://www.linkedin.com/in/mario-tonchev-0832472b6/**
 
